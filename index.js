@@ -4,7 +4,7 @@ var server = new Discord.Guild();
 
 bot.on("ready", () => {
     console.log("Bot avviato.");
-    server = bot.guilds.find("name", "PentaDrink");
+    server = bot.guilds.find("name", "PentaDrink 🍹🍾");
 });
 
 bot.on("guildMemberAdd", (member) => {

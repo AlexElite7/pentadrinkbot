@@ -13,4 +13,4 @@ bot.on("guildMemberAdd", (member) => {
     member.addRole(alcolisti);
 });
   
-bot.login("MzkzNzMxMDI2NDYwOTk5Njkw.DR6CUw.l6KtZZEiyFl67H-Qln5pR_Dfh5M");
+bot.login("NOPE");
